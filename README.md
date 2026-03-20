@@ -44,7 +44,7 @@ O aplicativo possui:
 - Fundo em azul escuro (quase preto)
 - Campos de entrada claros para melhor contraste
 - Textos em branco
-- Mensagem de sucesso destacada em vermelho
+- Mensagem de sucesso destacada
 
 
 ## ▶️ Demonstração em Vídeo
