@@ -1,4 +1,4 @@
-# 📱 CP01 de Mobile
+# 📱 CP02 de Mobile
 
 
 - **Nome:** Clayton Alves dos Santos  
@@ -50,7 +50,7 @@ O aplicativo possui:
 ## ▶️ Demonstração em Vídeo
 Acesse o vídeo demonstrando o funcionamento do aplicativo:
 
-🔗 https://youtube.com/shorts/Evkc31AEEFk?feature=share
+🔗 [https://youtube.com/shorts/Evkc31AEEFk?feature=share](https://youtube.com/shorts/_PoP-73PnOg?feature=share)
 
 
 ## 📂 Estrutura do Projeto
