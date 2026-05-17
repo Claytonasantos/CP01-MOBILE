@@ -15,6 +15,10 @@ Análise e Desenvolvimento de Sistemas
 
 Campus: Paulista
 
+# Vídeo no Youtube
+
+https://youtube.com/shorts/MQQtWuj7Tjk?feature=share
+
 ---
 
 # 👨‍💻 Integrantes da Equipe
